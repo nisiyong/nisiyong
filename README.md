@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Stephen Ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisiyong)
-
